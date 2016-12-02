@@ -1,6 +1,6 @@
 | | |
 | --------- | ----------------------------------- |
-| __Title__ | Software Design Overview |
+| __Title__ | Rational Unified Process |
 | __Version Info__ | Version 1.0, submitted by asingh64 on 09/30/2012 at 02:28 PM |
 | __Author__ | Kevin Gary |
 | __Mapping to Content Taxonomy__ | __SEEK:__ DES.con __CS2013:__ SE/Software Design/Overview of Design Paradigms |
